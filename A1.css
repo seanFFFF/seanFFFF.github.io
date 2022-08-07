@@ -1,0 +1,295 @@
+body {
+    background-color: rgb(233, 232, 232);
+}
+
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.head {
+    width: 1200px;
+    height: 200px;
+    background-color: #fff;
+}
+
+.head img {
+    max-width: 100%;
+
+}
+
+.box1 {
+    width: 1200x;
+    height: 550px;
+    background-color: white;
+    margin-top: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1-1 {
+    width: 1000px;
+    height: 540px;
+    background-color: white;
+
+}
+
+.box1-1 h4 {
+    font-size: 32px;
+}
+
+.box1-1 p {
+    font-size: 20px;
+}
+
+.box2 {
+    width: 1200x;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2-1 {
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+
+}
+
+.box2-1 h4 {
+    font-size: 32px;
+}
+
+.box2-1 p {
+    font-size: 20px;
+}
+
+.box3 {
+    width: 1200x;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3-1 {
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+
+}
+
+.box3-1 h4 {
+    font-size: 32px;
+}
+
+.box3-1 p {
+    font-size: 20px;
+}
+
+.box4 {
+    width: 1200x;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box4-1 {
+    width: 1000px;
+    height: 340px;
+    background-color: white;
+
+}
+
+.box4-1 h4 {
+    font-size: 32px;
+}
+
+.box4-1 p {
+    font-size: 20px;
+}
+
+.box5 {
+    width: 1200x;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box5-1 {
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+
+}
+
+.box5-1 h4 {
+    font-size: 32px;
+}
+
+.box5-1 p {
+    font-size: 20px;
+}
+
+.box6 {
+    width: 1200x;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box6-1 {
+    width: 1000px;
+    height: 300px;
+    background-color: white;
+
+}
+
+.box6-1 h4 {
+    font-size: 32px;
+}
+
+.box6-1 p {
+    font-size: 20px;
+}
+
+.box7 {
+    width: 1200x;
+    height: 315px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box7-1 {
+    width: 1000px;
+    height: 305px;
+    background-color: white;
+
+}
+
+.box7-1 h4 {
+    font-size: 32px;
+}
+
+.box7-1 p {
+    font-size: 20px;
+}
+
+.box8 {
+    width: 1200x;
+    height: 380px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box8-1 {
+    width: 1000px;
+    height: 370px;
+    background-color: white;
+
+}
+
+.box8-1 h4 {
+    font-size: 32px;
+}
+
+.box8-1 p {
+    font-size: 20px;
+}
+
+.box9 {
+    width: 1200x;
+    height: 350px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box9-1 {
+    width: 1000px;
+    height: 340px;
+    background-color: white;
+
+}
+
+.box9-1 h4 {
+    font-size: 32px;
+}
+
+.box9-1 p {
+    font-size: 20px;
+}
+
+
+.box10 {
+    width: 1200x;
+    height: 420px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box10-1 {
+    width: 1000px;
+    height: 410px;
+    background-color: white;
+
+}
+
+.box10-1 h4 {
+    font-size: 32px;
+}
+
+.box10-1 p {
+    font-size: 20px;
+}
+
+.box11 {
+    width: 1200x;
+    height: 300px;
+    background-color: white;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box11-1 {
+    width: 1000px;
+    height: 290px;
+    background-color: white;
+
+}
+
+.box11-1 h4 {
+    font-size: 32px;
+}
+
+.box11-1 p {
+    font-size: 20px;
+}
